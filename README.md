@@ -28,5 +28,28 @@ Lions are fascinating creatures! Here are some key points about them:
    - Lions are often symbols of strength, courage, and nobility in many cultures and are frequently depicted in art, literature, and mythology.
    <img src="./image/loin M.jpg" width="200px" height="200px">
 
-   
+   Lions are carnivorous predators, and their diet primarily consists of large herbivores. Here are some key points about what lions eat:
+
+### Main Prey
+1. **Ungulates**: Lions typically hunt animals like:
+   - **Wildebeests**
+   - **Zebras**
+   - **Buffalo**
+   - **Antelopes** (e.g., impalas, gazelles)
+   - **Hippopotamuses** (occasionally)
+
+2. **Scavenging**: While lions are skilled hunters, they will also scavenge from other predators, particularly when food is scarce.
+
+### Hunting Behavior
+- Lions often hunt in groups, using teamwork to surround and isolate their prey.
+- They tend to hunt at night or during cooler parts of the day to conserve energy and avoid the heat.
+
+### Feeding Habits
+- After a successful hunt, lions may eat quickly to protect their kill from scavengers like hyenas or vultures.
+- A pride may consume a large amount of meat in a single sitting—sometimes over 100 pounds (45 kg) at a time.
+
+### Water Needs
+- Lions can go for several days without drinking water, but they do require water for survival and will drink from rivers or lakes when available.
+
+
      
