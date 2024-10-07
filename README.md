@@ -26,4 +26,5 @@ Lions are fascinating creatures! Here are some key points about them:
 
 ### 7. **Cultural Significance**
    - Lions are often symbols of strength, courage, and nobility in many cultures and are frequently depicted in art, literature, and mythology.
+   <img src="./image/loin M.jpg">
      
